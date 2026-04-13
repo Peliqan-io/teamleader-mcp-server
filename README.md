@@ -1,7 +1,7 @@
 # Teamleader MCP Server
 MCP Server for Teamleader Focus with read and write capabilities.
 
-This repository contains all the information needed to connect to your [Teamleader](https://peliqan.io/ai/teamleader/) account using MCP.
+This repository contains all the information needed to connect to your [Teamleader](https://peliqan.io/ai/teamleader%20focus/) account using MCP.
 
 # What is the Peliqan MCP Server?
 
